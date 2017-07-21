@@ -1,6 +1,6 @@
 {
   "name": "post-type-discovery-tests",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A post-type-discovery test suite",
   "main": "index.js",
   "scripts": {
